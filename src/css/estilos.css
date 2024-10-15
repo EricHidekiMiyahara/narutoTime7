@@ -41,7 +41,6 @@ main {
     display: none;
     max-width: 360px;
     border-radius: 10px;
-
     box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
 }
 
@@ -134,7 +133,6 @@ main {
 .listagem .naruto {
     background-color: #6b727a;
     color: #ffffff;
-
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -144,7 +142,6 @@ main {
     border-top-left-radius: 30px;
     border-bottom-left-radius: 30px;
     min-height: 70px;
-
     transition: 0.15 ease-in-out;
 }
 
