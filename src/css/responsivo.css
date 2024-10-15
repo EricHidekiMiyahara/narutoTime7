@@ -4,6 +4,10 @@
         padding-top: 10%;
     }
     
+    main {
+        padding: none;
+        margin: 0;
+    }
     .anime {
         padding-left: 1%;
     }
