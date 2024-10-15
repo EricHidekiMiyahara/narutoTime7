@@ -4,7 +4,7 @@
     }
     
     .anime {
-        padding-left: 20%;
+        padding-left: 1%;
     }
     .naruto{
         flex-direction: column;
@@ -13,7 +13,7 @@
     }
 
     .cartao-naruto{
-        max-width: 300px;
+        max-width: 30vh;
     }
 
     .cartao-naruto .cartao-informacoes{
@@ -34,7 +34,7 @@
 
     .listagem .naruto{
         justify-content: center;
-        width: 45%;
+        width: 20vh;
         border-top-left-radius: 0;
         border-bottom-left-radius: 0;
         margin-bottom: 0;
