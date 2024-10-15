@@ -21,9 +21,9 @@
 
 <h2 id="about">📌 Sobre</h2>
 
-O site fictício "Sorveteria Fake" apresenta uma interface simples e atraente, destacando sorvetes artesanais em sabores clássicos como chocolate, baunilha e pistache, com preços variando entre R$13 e R$15. Desenvolvido como um projeto demonstrativo em HTML e CSS, o site simula uma loja online de sorvetes. Um diferencial interessante é o efeito 3D aplicado aos seis cards de produtos, implementado com JavaScript interno, proporcionando uma experiência visual envolvente. Para dispositivos móveis, o segredo da responsividade está na interação: o efeito 3D é ativado ao mover o celular de um lado para o outro, criando uma dinâmica única de visualização.
+O site "Naruto Time 7" apresenta descrições detalhadas dos personagens principais do Time 7 da série "Naruto", incluindo Naruto Uzumaki, Sasuke Uchiha, Sakura Haruno e Kakashi Hatake. Cada personagem tem informações sobre suas habilidades, história e papel na equipe. É uma fonte dedicada aos fãs da série, destacando os principais protagonistas e suas jornadas.
 
-Você pode acessá-lo [aqui](https://sorveteriafake.vercel.app).
+Você pode acessá-lo [aqui](https://naruto-time7.vercel.app).
 
 <h2 id="technologies">Tecnologias utilizadas</h2>
 
@@ -49,6 +49,6 @@ Irei rever a sua solicitação de pull. Participe da discussão e faça as alter
 
 <h3 id="links">Links Úteis</h3>
 
-- [Projeto](https://sorveteriafake.vercel.app)
+- [Projeto](https://naruto-time7.vercel.app)
 - [Layout](https://github.com/EricHidekiMiyahara/narutoTime7)
 
