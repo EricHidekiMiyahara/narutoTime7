@@ -29,6 +29,7 @@ Você pode acessá-lo [aqui](https://naruto-time7.vercel.app).
 
 - **HTML5:** Estrutura da página. 🌐
 - **CSS3:** Estilização e animações. 🎨
+- **JAVASCRIPT:** Funcionalidades interativas. 💻
 - **Flaticon:** Para o ícone. 👍
 
 <h2 id="contribute">📫 Contribuição</h2>
