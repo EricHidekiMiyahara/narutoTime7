@@ -1,6 +1,7 @@
 @media(max-width: 750px){
     h1 {
-        padding: 5%;
+        text-align: center;
+        padding-top: 10%;
     }
     
     .anime {
