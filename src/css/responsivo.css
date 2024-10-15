@@ -1,7 +1,8 @@
 @media(max-width: 750px){
     h1 {
         text-align: center;
-        padding-top: 10%;
+        padding-top: 20%;
+        margin: 0;
     }
     
     main {
