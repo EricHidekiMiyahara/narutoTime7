@@ -16,7 +16,6 @@
 
 <p align="center">
    <img src="./src/imagens/paginaPrincipal.png" alt="Página principal" width="400px">
-
 </p>
 
 <h2 id="about">📌 Sobre</h2>
